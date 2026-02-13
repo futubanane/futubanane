@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michaeleroux
+- 👋 Hi, I’m @
 - 👀 I’m interested in artificial intelligent and cybersecurity
 - 🌱 I’m currently learning the basic of programming languages as well as enrolled in a skills bootcamp in data science (Fundamentals) 
 - 💞️ I’m looking to collaborate on any project that could build and enhance my knowledge in programming. 
